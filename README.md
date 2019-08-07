@@ -11,7 +11,7 @@ It fix issues that can be encountered when using the Shared Catalog feature.
 Simply run these commands in your Magento install :
 
 ```
-composer require smile/module-elasticsuite-shared-catalog
+composer require lci/module-elasticsuite-shared-catalog
 bin/magento setup:upgrade
 ```
 
